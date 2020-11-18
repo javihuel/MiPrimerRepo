@@ -1,0 +1,55 @@
+body {
+    /*background-color: lightblue;*/
+    background-image="fondo2.jpg"
+  }
+  Img{
+    background-color: orange;
+    display:block;
+    margin:auto;
+    /*margin-left: 60px;*/
+    vertical-align: middle;
+    border:3 px solid rgb(100, 40, 0);
+  }
+  h1 {
+    color: black;
+    background-color: red;
+    text-align: center;
+    margin-left: 80px;
+    margin-right: 130px;
+  }
+  h2 {
+    color: white;
+    background-color: rgb(12, 75, 156);
+    text-align: center;
+    margin-left: 80px;
+    margin-right: 130px;
+  }
+
+  h3{
+    color:  rgb(120, 195, 214);
+  }
+  h4{
+    color:  rgb(15, 3, 66);
+  }
+
+ table,tr,td{
+
+    /*margin-left: 80px;
+    margin-right: 10px;*/
+    background-color: rgb(3, 40, 63);
+    vertical-align: middle;
+    margin: 0 auto;
+  }
+  .responsive {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+  }
+  li{
+    font-size: large;
+    font-family: candara;
+  }
+  #volver{
+    font-size: large;
+    font-family: candara;
+  }
